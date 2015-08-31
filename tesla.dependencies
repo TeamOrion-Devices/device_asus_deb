@@ -28,5 +28,5 @@
     "repository":  "TheLoonyBin/proprietary_vendor_qcom",
     "target_path": "vendor/qcom",
     "branch":      "lp5.1"
-  },
+  }
 ]
